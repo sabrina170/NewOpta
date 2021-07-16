@@ -1,0 +1,8 @@
+[30-Apr-2021 15:28:25 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/optavoca/public_html/admin/vistas/mis-test.php on line 58
+[30-Apr-2021 15:29:07 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/optavoca/public_html/admin/vistas/mis-test.php on line 58
+[30-Apr-2021 15:29:10 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/optavoca/public_html/admin/vistas/mis-test.php on line 58
+[30-Apr-2021 15:30:10 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/optavoca/public_html/admin/vistas/mis-test.php on line 58
+[30-Apr-2021 16:30:41 America/Lima] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/optavoca/public_html/admin/vistas/mis-test.php on line 60
+[30-Apr-2021 16:31:10 America/Lima] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/optavoca/public_html/admin/vistas/mis-test.php on line 60
+[30-Apr-2021 15:32:09 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/optavoca/public_html/admin/vistas/mis-test.php on line 16
+[30-Apr-2021 15:32:12 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/optavoca/public_html/admin/vistas/mis-test.php on line 16
